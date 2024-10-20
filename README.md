@@ -1,7 +1,5 @@
 <h1 align="center">Привет, я Anakin400001! 👋</h1>
 
----
-
 ## 📬 Связь со мной
 <p align="center">
   <a href="https://t.me/Anakin400001">
