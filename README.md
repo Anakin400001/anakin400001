@@ -21,6 +21,10 @@
 ### Дизайн
 ![Static Badge](https://img.shields.io/badge/FIGMA-F24E1E?style=for-the-badge&logo=FIGMA&labelColor=000000&color=F24E1E)
 
+### Back-end
+![Static Badge](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&labelColor=000000&color=00599C)
+![Static Badge](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&labelColor=000000&color=239120)
+
 # Я сейчас изучаю:
 ![Static Badge](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&labelColor=000000&color=000000)
 ![Static Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&labelColor=000000&color=3776AB)
