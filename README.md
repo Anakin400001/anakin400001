@@ -1,25 +1,7 @@
-<!-- Приветствие -->
 <h1 align="center">Привет, я Anakin400001! 👋</h1>
-<p align="center">
-  <img src="https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif" alt="Приветствие" width="300"/>
-</p>
 
 ---
 
-<!-- Таблица содержания -->
-## 📋 Содержание
-- [📬 Связь со мной](#%F0%9F%93%AC-связь-со-мной)
-- [📊 Моя GitHub Статистика](#%F0%9F%93%8A-моя-github-статистика)
-- [🔧 Технологии и инструменты](#🔧-технологии-и-инструменты)
-- [🌱 Я сейчас изучаю](#🌱-я-сейчас-изучаю)
-- [📘 Кратко о мне](#📘-кратко-о-мне)
-- [🎯 Цели](#🎯-цели)
-- [🛠️ Проекты](#🛠️-проекты)
-- [📫 Как связаться со мной](#📫-как-связаться-со-мной)
-
----
-
-<!-- Связь со мной -->
 ## 📬 Связь со мной
 <p align="center">
   <a href="https://t.me/Anakin400001">
@@ -35,20 +17,18 @@
 
 ---
 
-<!-- GitHub Статистика -->
 ## 📊 Моя GitHub Статистика
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anakin400001&show_icons=true&theme=dracula&hide_border=true&count_private=true&locale=ru" alt="GitHub Статистика" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anakin400001&layout=compact&langs_count=8&theme=dracula&hide_border=true&bg_color=00000000&text_color=ffffff&title_color=ffffff&locale=ru" alt="Статистика языков" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Anakin400001&show_icons=true&theme=dark&hide_border=true&count_private=true&locale=ru&bg_color=00000000&text_color=ffffff&title_color=ffffff" alt="GitHub Статистика" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anakin400001&layout=compact&langs_count=8&theme=dark&hide_border=true&bg_color=00000000&text_color=ffffff&title_color=ffffff&locale=ru" alt="Статистика языков" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anakin400001&theme=dracula&hide_border=true" alt="Статистика цепочки" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anakin400001&theme=dark&hide_border=true&locale=ru&background=00000000&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff" alt="Статистика цепочки" />
 </p>
 
 ---
 
-<!-- Технологии и инструменты -->
 ## 🔧 Технологии и инструменты
 
 ### 💻 Front-end
@@ -78,7 +58,6 @@
 
 ---
 
-<!-- Я сейчас изучаю -->
 ## 🌱 Я сейчас изучаю
 <p>
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&labelColor=1D1D1D&color=000000" alt="Rust">
@@ -88,57 +67,16 @@
 
 ---
 
-<!-- Кратко о себе -->
 ## 📘 Кратко о мне
 > 👨‍💻 *Я студент, изучающий программирование и разработку. Работаю над проектами, связанными с веб- и десктоп-приложениями, и активно изучаю новые технологии.*
 >
 > 🔭 *В свободное время предпочитаю заниматься своими проектами, постоянно стремлюсь к новым знаниям.*
->
-> 📫 *Связаться со мной можно через Telegram, Discord или VK.*
 
 ---
 
-<!-- Цели -->
-## 🎯 Цели
-- 🚀 Улучшить навыки в разработке веб-приложений.
-- 🔧 Освоить новые технологии и инструменты.
-- 🤝 Сотрудничать в интересных проектах с открытым исходным кодом.
-- 📚 Продолжать обучение и развитие в сфере IT.
-
----
-
-<!-- Проекты -->
-## 🛠️ Проекты
-<!-- Пinned Repositories -->
-### 📌 Избранные проекты
-<!-- Можно добавить ссылки на репозитории -->
-- [**Проект 1**](https://github.com/Anakin400001/project1) — Краткое описание проекта.
-- [**Проект 2**](https://github.com/Anakin400001/project2) — Краткое описание проекта.
-- [**Проект 3**](https://github.com/Anakin400001/project3) — Краткое описание проекта.
-
----
-
-<!-- Как связаться -->
-## 📫 Как связаться со мной
-<p align="center">
-  <a href="https://t.me/Anakin400001">
-    <img src="https://img.shields.io/badge/Telegram-%40Anakin400001-28A7E7?style=for-the-badge&logo=telegram&labelColor=1D1D1D" alt="Telegram">
-  </a>
-  <a href="https://discord.gg/3RTgFesC">
-    <img src="https://img.shields.io/discord/1103013741991317504?style=for-the-badge&logo=discord&labelColor=1D1D1D&color=5865F2" alt="Discord">
-  </a>
-  <a href="https://vk.com/vivcharovanton">
-    <img src="https://img.shields.io/badge/VK-%40vivcharovanton-0077FF?style=for-the-badge&logo=vk&labelColor=1D1D1D&color=0077FF" alt="VK">
-  </a>
-</p>
-
----
-
-<!-- Благодарности -->
 ## 🙏 Благодарности
 Спасибо за посещение моего профиля! Если у вас есть предложения или хотите сотрудничать, не стесняйтесь связаться со мной.
 
-<!-- Нижний колонтитул -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Anakin400001&style=flat-square&color=28A7E7" alt="Посетителей">
 </p>
