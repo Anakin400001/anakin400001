@@ -1,5 +1,5 @@
 [![Задай мне вопрос](https://img.shields.io/badge/%40Anakin400001-ADD8E6?style=for-the-badge&logo=telegram&labelColor=151515&color=28a7e7#gh-dark-mode-only)](https://t.me/Anakin400001)
-[![Задай мне вопрос](https://img.shields.io/discord/881868396227092501?style=for-the-badge&logo=discord&labelColor=151515&color=5865f2)](https://discord.gg/3RTgFesC)
+[![Задай мне вопрос](https://img.shields.io/discord/1103013741991317504?style=for-the-badge&logo=discord&labelColor=151515&color=5865f2)](https://discord.gg/3RTgFesC)
 
 ![Статистика языков](https://github-readme-stats.vercel.app/api/top-langs?username=Anakin4001&layout=compact&langs_count=8&card_width=465&bg_color=151515&hide_border=true&text_color=ffffff&title_color=5865f2)
 
