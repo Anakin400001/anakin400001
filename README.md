@@ -1,9 +1,11 @@
 # Привет, я Anakin400001! 👋
 
+---
+
 ## 📬 Связь со мной
-[![Telegram: Anakin400001](https://img.shields.io/badge/%40Anakin400001-ADD8E6?style=for-the-badge&logo=telegram&labelColor=151515&color=28a7e7#gh-dark-mode-only)](https://t.me/Anakin400001)
-[![Discord сервер](https://img.shields.io/discord/1103013741991317504?style=for-the-badge&logo=discord&labelColor=151515&color=5865f2)](https://discord.gg/3RTgFesC)
-[![VK: vivcharovanton](https://img.shields.io/badge/%40vivcharovanton-0077FF?style=for-the-badge&logo=vk&labelColor=151515&color=0077FF)](https://vk.com/vivcharovanton)
+[![Telegram: Anakin400001](https://img.shields.io/badge/%40Anakin400001-ADD8E6?style=for-the-badge&logo=telegram&labelColor=000000&color=ADD8E6)](https://t.me/Anakin400001)
+[![Discord сервер](https://img.shields.io/discord/1103013741991317504?style=for-the-badge&logo=discord&labelColor=000000&color=5865f2)](https://discord.gg/3RTgFesC)
+[![VK: vivcharovanton](https://img.shields.io/badge/%40vivcharovanton-0077FF?style=for-the-badge&logo=vk&labelColor=000000&color=0077FF)](https://vk.com/vivcharovanton)
 
 ---
 
@@ -14,16 +16,17 @@
 ---
 
 ## 🔧 Технологии и инструменты
+
 ### Front-end
-![HTML](https://img.shields.io/badge/HTML-C04DFF?style=for-the-badge&logo=html5&labelColor=000000&color=e34f26)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&labelColor=000000&color=f5f5f5)
-![JavaScript](https://img.shields.io/badge/JavaScript-FFD700?style=for-the-badge&logo=javascript&labelColor=000000&color=FFD700)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&labelColor=000000&color=E34F26)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&labelColor=000000&color=1572B6)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&labelColor=000000&color=F7DF1E)
 
 ### Back-end
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&labelColor=000000&color=339933)
 
 ### Desktop
-![Electron](https://img.shields.io/badge/electron-34A85A?style=for-the-badge&logo=electron&labelColor=000000&color=34A85A)
+![Electron](https://img.shields.io/badge/electron-47848F?style=for-the-badge&logo=electron&labelColor=000000&color=47848F)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&labelColor=000000&color=00599C)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&labelColor=000000&color=239120)
 
@@ -39,9 +42,9 @@
 ---
 
 ## 📘 Кратко о мне
-Я студент, изучающий программирование и разработку. Я работаю над проектами, связанными с web и desktop приложениями, и активно изучаю новые технологии. В свободное время предпочитаю заниматься собственными проектами.
+👨‍💻 Я студент, изучающий программирование и разработку. Работая над проектами, связанными с web и desktop приложениями, я активно изучаю новые технологии и развиваюсь в сфере IT. В свободное время предпочитаю заниматься своими проектами.
 
 ---
 
 ## 📌 Заметки
-Я стремлюсь развивать как технические, так и коммуникативные навыки.
+🎯 Я стремлюсь развивать как технические, так и коммуникативные навыки, чтобы становиться лучше каждый день.
