@@ -39,7 +39,6 @@
 ### 🖥️ Back-end
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&labelColor=1D1D1D&color=339933" alt="Node.js">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&labelColor=1D1D1D&color=3776AB" alt="Python">
 </p>
 
 ### 🖥️ Desktop
