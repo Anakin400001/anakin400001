@@ -3,6 +3,7 @@
 ## 📬 Связь со мной
 [![Telegram: Anakin400001](https://img.shields.io/badge/%40Anakin400001-ADD8E6?style=for-the-badge&logo=telegram&labelColor=151515&color=28a7e7#gh-dark-mode-only)](https://t.me/Anakin400001)
 [![Discord сервер](https://img.shields.io/discord/1103013741991317504?style=for-the-badge&logo=discord&labelColor=151515&color=5865f2)](https://discord.gg/3RTgFesC)
+[![VK: vivcharovanton](https://img.shields.io/badge/%40vivcharovanton-0077FF?style=for-the-badge&logo=vk&labelColor=151515&color=0077FF)](https://vk.com/vivcharovanton)
 
 ## 📊 Моя GitHub Статистика
 ![Статистика языков](https://github-readme-stats.vercel.app/api/top-langs?username=Anakin400001&layout=compact&langs_count=8&card_width=500&hide_border=true&bg_color=00000000&text_color=ffffff&title_color=ffffff&locale=ru)
