@@ -1,9 +1,9 @@
-[![Ask me anything](https://img.shields.io/badge/%40hromas-ADD8E6?style=for-the-badge&logo=telegram&labelColor=151515&color=28a7e7#gh-dark-mode-only)](https://t.me/hromas)
+[![Ask me anything](https://img.shields.io/badge/%40Anakin4001-ADD8E6?style=for-the-badge&logo=telegram&labelColor=151515&color=28a7e7#gh-dark-mode-only)](https://t.me/Anakin4001)
 [![Ask me anything](https://img.shields.io/discord/881868396227092501?style=for-the-badge&logo=discord&labelColor=151515&color=5865f2)](https://discord.gg/M7MqQhhu5j)
 
-![Language stats](https://github-readme-stats.vercel.app/api/top-langs?username=hromasdev&layout=compact&langs_count=8&card_width=465&bg_color=151515&hide_border=true&text_color=ffffff&title_color=5865f2)
+![Language stats](https://github-readme-stats.vercel.app/api/top-langs?username=Anakin4001&layout=compact&langs_count=8&card_width=465&bg_color=151515&hide_border=true&text_color=ffffff&title_color=5865f2)
 
-![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=HromasDev&count_private=true&theme=dark&show_icons=true&count_private=true&sanitize=true&hide_border=true&line_height=25&text_color=ffffff&title_color=5865f2)
+![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=Anakin4001&count_private=true&theme=dark&show_icons=true&count_private=true&sanitize=true&hide_border=true&line_height=25&text_color=ffffff&title_color=5865f2)
 
 # Languages and Tools
 
@@ -37,3 +37,4 @@
 
 ![Static Badge](https://img.shields.io/badge/redux-593D88?style=for-the-badge&logo=redux&labelColor=000000&color=f5f5f5)
 ![Static Badge](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&labelColor=000000&color=f5f5f5)
+
