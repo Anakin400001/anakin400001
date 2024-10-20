@@ -60,7 +60,6 @@
 <p>
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&labelColor=1D1D1D&color=000000" alt="Rust">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&labelColor=1D1D1D&color=3776AB" alt="Python">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&labelColor=1D1D1D&color=3178C6" alt="TypeScript">
 </p>
 
 ---
