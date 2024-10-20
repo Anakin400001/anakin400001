@@ -74,5 +74,5 @@
 Спасибо за посещение моего профиля! Если у вас есть предложения или хотите сотрудничать, не стесняйтесь связаться со мной.
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Посетители-6-28A7E7?style=flat-square&labelColor=1D1D1D" alt="Посетители">
+  <img src="https://komarev.com/ghpvc/?username=Anakin400001&style=flat-square&color=28A7E7" alt="Посетителей" title="Посетители">
 </p>
