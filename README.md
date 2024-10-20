@@ -1,11 +1,11 @@
-[![Ask me anything](https://img.shields.io/badge/%40Anakin4001-ADD8E6?style=for-the-badge&logo=telegram&labelColor=151515&color=28a7e7#gh-dark-mode-only)](https://t.me/Anakin4001)
-[![Ask me anything](https://img.shields.io/discord/881868396227092501?style=for-the-badge&logo=discord&labelColor=151515&color=5865f2)](https://discord.gg/M7MqQhhu5j)
+[![Задай мне вопрос](https://img.shields.io/badge/%40Anakin4001-ADD8E6?style=for-the-badge&logo=telegram&labelColor=151515&color=28a7e7#gh-dark-mode-only)](https://t.me/anakin400001)
+[![Задай мне вопрос](https://img.shields.io/discord/881868396227092501?style=for-the-badge&logo=discord&labelColor=151515&color=5865f2)](https://discord.gg/M7MqQhhu5j)
 
-![Language stats](https://github-readme-stats.vercel.app/api/top-langs?username=Anakin4001&layout=compact&langs_count=8&card_width=465&bg_color=151515&hide_border=true&text_color=ffffff&title_color=5865f2)
+![Статистика языков](https://github-readme-stats.vercel.app/api/top-langs?username=Anakin4001&layout=compact&langs_count=8&card_width=465&bg_color=151515&hide_border=true&text_color=ffffff&title_color=5865f2)
 
-![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=Anakin4001&count_private=true&theme=dark&show_icons=true&count_private=true&sanitize=true&hide_border=true&line_height=25&text_color=ffffff&title_color=5865f2)
+![GitHub Статистика](https://github-readme-stats.vercel.app/api?username=Anakin4001&count_private=true&theme=dark&show_icons=true&count_private=true&sanitize=true&hide_border=true&line_height=25&text_color=ffffff&title_color=5865f2)
 
-# Languages and Tools
+# Языки и инструменты, которые я знаю
 
 ### Front-end
 ![Static Badge](https://img.shields.io/badge/HTML-C04DFF?style=for-the-badge&logo=html5&labelColor=000000&color=e34f26)
@@ -26,12 +26,12 @@
 ![Static Badge](https://img.shields.io/badge/electron-34A85A?style=for-the-badge&logo=electron&labelColor=000000&color=34A85A)
 ![Static Badge](https://img.shields.io/badge/tauri-FFC107?style=for-the-badge&logo=tauri&labelColor=000000&color=FFC107)
 
-### Design
+### Дизайн
 ![Static Badge](https://img.shields.io/badge/FIGMA-F24E1E?style=for-the-badge&logo=FIGMA&labelColor=000000&color=F24E1E)
 ![Static Badge](https://img.shields.io/badge/adobe%20photoshop-FFA07A?style=for-the-badge&logo=adobe%20photoshop&labelColor=000000&color=31a8ff)
 ![Static Badge](https://img.shields.io/badge/adobe%20after%20effects-FFC300?style=for-the-badge&logo=adobe%20after%20effects&labelColor=000000&color=9999ff)
 
-# I’m currently learning:
+# Я сейчас изучаю:
 ![Static Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&labelColor=000000&color=3776AB)
 ![Static Badge](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&labelColor=000000&color=3178C6)
 
