@@ -1,7 +1,7 @@
 [![Задай мне вопрос](https://img.shields.io/badge/%40Anakin400001-ADD8E6?style=for-the-badge&logo=telegram&labelColor=151515&color=28a7e7#gh-dark-mode-only)](https://t.me/Anakin400001)
 [![Онлайн на сервере](https://img.shields.io/discord/1103013741991317504?style=for-the-badge&logo=discord&labelColor=151515&color=5865f2)](https://discord.gg/3RTgFesC)
 
-![Статистика языков](https://github-readme-stats.vercel.app/api/top-langs?username=Anakin400001&layout=compact&langs_count=8&card_width=500&locale=ru)
+![Статистика языков](https://github-readme-stats.vercel.app/api/top-langs?username=Anakin400001&layout=compact&langs_count=8&card_width=500&theme=dark&hide_border=false&border_color=ffffff&locale=ru)
 
 ![GitHub Статистика](https://github-readme-stats.vercel.app/api?username=Anakin400001&count_private=true&theme=dark&show_icons=true&locale=ru)
 
