@@ -17,6 +17,9 @@
 
 ### Desktop
 ![Static Badge](https://img.shields.io/badge/electron-34A85A?style=for-the-badge&logo=electron&labelColor=000000&color=34A85A)
+![Static Badge](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&labelColor=000000&color=00599C)
+![Static Badge](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&labelColor=000000&color=239120)
+![Static Badge](https://img.shields.io/badge/electron-34A85A?style=for-the-badge&logo=electron&labelColor=000000&color=34A85A)
 
 ### Дизайн
 ![Static Badge](https://img.shields.io/badge/FIGMA-F24E1E?style=for-the-badge&logo=FIGMA&labelColor=000000&color=F24E1E)
