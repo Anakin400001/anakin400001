@@ -17,8 +17,8 @@
 
 ## 📊 Моя GitHub Статистика
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anakin400001&show_icons=true&theme=dark&hide_border=true&count_private=true&locale=ru&bg_color=00000000&text_color=ffffff&title_color=ffffff" alt="GitHub Статистика" style="max-width: 100%; height: auto;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anakin400001&layout=compact&langs_count=8&theme=dark&hide_border=true&bg_color=00000000&text_color=ffffff&title_color=ffffff&locale=ru" alt="Статистика языков" style="max-width: 100%; height: auto;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Anakin400001&show_icons=true&theme=dark&hide_border=true&count_private=true&locale=ru&bg_color=00000000&text_color=ffffff&title_color=ffffff" alt="GitHub Статистика" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anakin400001&layout=compact&langs_count=8&theme=dark&hide_border=true&bg_color=00000000&text_color=ffffff&title_color=ffffff&locale=ru" alt="Статистика языков" />
 </p>
 
 <p align="center">
