@@ -2,6 +2,12 @@
   Привет, я Anakin400001! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
 </h1>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=500&color=28A7E7&center=true&vCenter=true&multiline=true&width=800&height=80&lines=%D0%94%D0%BE%D0%B1%D1%80%D0%BE+%D0%BF%D0%BE%D0%B6%D0%B0%D0%BB%D0%BE%D0%B2%D0%B0%D1%82%D1%8C+%D0%B2+%D0%BF%D1%80%D0%BE%D1%84%D0%B8%D0%BB%D1%8C!;-%D0%9D%D0%B0%D1%88%D0%B8%D0%B2%D0%B0%D1%8E+%D0%BA%D0%BE%D0%B4+%D0%B8+%D1%80%D0%B0%D0%B7%D0%B2%D0%B8%D0%B2%D0%B0%D1%8E+%D1%81%D0%BA%D0%B8%D0%BB%D0%BB%D1%8B" alt="Welcome Typing">
+</p>
+
+---
+
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Inbox%20Tray.webp" alt="Inbox Tray" width="25" height="25" /> Связь со мной
 <p align="center">
   <a href="https://t.me/Anakin400001">
@@ -30,6 +36,7 @@
 ---
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Toolbox.webp" alt="Toolbox" width="25" height="25" /> Технологии и инструменты
+
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Laptop.webp" alt="Laptop" width="25" height="25" /> Front-end
 <p>
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&labelColor=1D1D1D&color=E34F26" alt="HTML5">
@@ -77,3 +84,4 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Anakin400001&style=flat-square&color=28A7E7" alt="Посетителей" title="Посетители">
 </p>
+
