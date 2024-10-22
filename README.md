@@ -1,15 +1,15 @@
-<h1 align="center">
+<h1 align="center" style="color: white;">
   Добро пожаловать в профиль! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
 </h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=500&color=28A7E7&center=true&vCenter=true&multiline=true&width=800&height=80&lines=%D0%9C%D0%B5%D0%BD%D1%8F+%D0%B7%D0%BE%D0%B2%D1%83%D1%82+Anakin400001;-%D0%9D%D0%B0%D1%88%D0%B8%D0%B2%D0%B0%D1%8E+%D0%BA%D0%BE%D0%B4+%D0%B8+%D1%80%D0%B0%D0%B7%D0%B2%D0%B8%D0%B2%D0%B0%D1%8E+%D1%81%D0%BA%D0%B8%D0%BB%D0%BB%D1%8B" alt="Welcome Typing">
+<p align="center" style="color: white;">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=500&color=FFFFFF&center=true&vCenter=true&multiline=true&width=800&height=80&lines=%D0%9C%D0%B5%D0%BD%D1%8F+%D0%B7%D0%BE%D0%B2%D1%83%D1%82+Anakin400001;-%D0%9D%D0%B0%D1%88%D0%B8%D0%B2%D0%B0%D1%8E+%D0%BA%D0%BE%D0%B4+%D0%B8+%D1%80%D0%B0%D0%B7%D0%B2%D0%B8%D0%B2%D0%B0%D1%8E+%D1%81%D0%BA%D0%B8%D0%BB%D0%BB%D1%8B" alt="Welcome Typing">
 </p>
 
 ---
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Inbox%20Tray.webp" alt="Inbox Tray" width="25" height="25" /> Связь со мной
-<p align="center">
+<p align="center" style="color: white;">
   <a href="https://t.me/Anakin400001">
     <img src="https://img.shields.io/badge/Telegram-%40Anakin400001-28A7E7?style=for-the-badge&logo=telegram&labelColor=1D1D1D" alt="Telegram">
   </a>
@@ -38,33 +38,33 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Toolbox.webp" alt="Toolbox" width="25" height="25" /> Технологии и инструменты
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Laptop.webp" alt="Laptop" width="25" height="25" /> Front-end
-<p>
+<p style="color: white;">
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&labelColor=1D1D1D&color=E34F26" alt="HTML5">
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&labelColor=1D1D1D&color=1572B6" alt="CSS3">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&labelColor=1D1D1D&color=F7DF1E" alt="JavaScript">
 </p>
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/File%20Cabinet.png" alt="File Cabinet" width="25" height="25" /> Back-end
-<p>
+<p style="color: white;">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&labelColor=1D1D1D&color=339933" alt="Node.js">
 </p>
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="Desktop Computer" width="25" height="25" /> Desktop
-<p>
+<p style="color: white;">
   <img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&labelColor=1D1D1D&color=47848F" alt="Electron">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&labelColor=1D1D1D&color=00599C" alt="C++">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&labelColor=1D1D1D&color=239120" alt="C#">
 </p>
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Artist%20Palette.webp" alt="Artist Palette" width="25" height="25" /> Дизайн
-<p>
+<p style="color: white;">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&labelColor=1D1D1D&color=F24E1E" alt="Figma">
 </p>
 
 ---
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/Seedling.webp" alt="Seedling" width="25" height="25" /> Я сейчас изучаю
-<p>
+<p style="color: white;">
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&labelColor=1D1D1D&color=000000" alt="Rust">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&labelColor=1D1D1D&color=3776AB" alt="Python">
 </p>
@@ -79,7 +79,7 @@
 ---
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Folded%20Hands.webp" alt="Folded Hands" width="25" height="25" /> Благодарности
-Спасибо за посещение моего профиля! Если у вас есть предложения или хотите сотрудничать, не стесняйтесь связаться со мной.
+<p style="color: white;">Спасибо за посещение моего профиля! Если у вас есть предложения или хотите сотрудничать, не стесняйтесь связаться со мной.</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Anakin400001&style=flat-square&color=28A7E7" alt="Посетителей" title="Посетители">
