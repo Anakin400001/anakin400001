@@ -1,6 +1,6 @@
 <h1 align="center" style="color: white;">
   Привет, я Anakin400001! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
-</h1>
+</h1> 
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Inbox%20Tray.webp" alt="Inbox Tray" width="25" height="25" /> Связь со мной
 <p align="center" style="color: white;">
